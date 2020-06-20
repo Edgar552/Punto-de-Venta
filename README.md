@@ -1,2 +1,3 @@
-# Proyectos de Software 
-Proyectos Profesionales Desarrollados en PHP, Laravel y Yii Framework
+# Punto de Venta Boutique
+
+Trabajo Realizado a Boutique Local de Venta de Ropa
